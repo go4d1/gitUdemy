@@ -1,0 +1,10 @@
+SCREEN=On
+TITLE=Gitudemy - West Wind Web Connection
+EXCLUSIVE=OFF
+SAFETY=OFF
+CENTURY=ON
+STRICTDATE=0
+MEMOWIDTH=150
+_vfpstart=
+PATH=C:\WCONNECT\classes;C:\WCONNECT\;C:\WCONNECT\tools;C:\WCONNECT\samples\wwdemo
+COMMAND=do wcstart
